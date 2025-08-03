@@ -20,3 +20,6 @@ I'm a self-motivated and versatile Software Engineer with hands-on experience in
 - 🎨 UI/UX Design & Real-Time Systems
 
 Always open to new ideas, team collaboration, and open-source contributions.
+
+
+## 🔧 Tech Stack
