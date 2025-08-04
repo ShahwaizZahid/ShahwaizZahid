@@ -14,7 +14,7 @@
 
 I'm a self-motivated and versatile Software Engineer with hands-on experience in:
 
-- 🔧 Full Stack (MERN) Development
+- 🔧 Full Stack (MERN, Laravel) Development
 - 📱 Mobile App Development (Flutter, React Native)
 - 🤖 Machine Learning (Python, OpenCV, NumPy)
 - 🎨 UI/UX Design & Real-Time Systems
@@ -40,3 +40,5 @@ Always open to new ideas, team collaboration, and open-source contributions.
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-000000?style=for-the-badge&logo=framer&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+### 🛠 Backend
