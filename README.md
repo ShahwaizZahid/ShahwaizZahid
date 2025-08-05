@@ -1,7 +1,9 @@
 <table>
   <tr>
     <td width="160" valign="top">
-      <img src="./images/profile/profile.jpeg" width="150" style="border-radius: 50%;" alt="Shahwaiz Zahid" />
+      <div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
     </td>
     <td>
       <h1>👋 Hi, I'm Shahwaiz Zahid</h1>
@@ -21,10 +23,10 @@ I'm a self-motivated and versatile Software Engineer with hands-on experience in
 
 Always open to new ideas, team collaboration, and open-source contributions.
 
-
 ## 🔧 Tech Stack
 
 ### 💻 Frontend
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
@@ -42,6 +44,7 @@ Always open to new ideas, team collaboration, and open-source contributions.
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ### 🛠 Backend
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -52,6 +55,7 @@ Always open to new ideas, team collaboration, and open-source contributions.
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 
 ### 🗄 Databases
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
