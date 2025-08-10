@@ -188,3 +188,23 @@ An intelligent image classification platform combining a **MERN-based frontend**
 - [GitHub Repo](https://github.com/ShahwaizZahid/Tracker)
 
 ---
+
+## 🏆 Achievements & Milestones
+
+- 💼 **Back-end Developer @ Softix Technology**  
+  Designed and maintained scalable REST APIs, optimized **MongoDB** queries, and integrated seamlessly with front-end systems.
+
+- 🌍 **6+ Freelance Full Stack Projects**  
+  Delivered **end-to-end MERN & mobile app** solutions — from UI/UX design to deployment.
+
+- 🚀 **10+ Real-World Applications Built**  
+  Developed production-ready apps, including **AI-powered platforms**, real-time systems, and mobile delivery solutions.
+
+- 📱 **Cross-Platform Mobile Development**  
+  Published **Flutter** and **React Native** apps with **real-time sync**, location tracking, and push notifications.
+
+- 🤝 **Open Source Contributor**  
+  Actively collaborated on GitHub, sharing code, fixing bugs, and enhancing community-driven projects.
+
+- 🤖 **Innovative AI Integrations**  
+  Implemented **Gemini API**, **Convex**, and **Liveblocks** to create next-gen, interactive web applications.
