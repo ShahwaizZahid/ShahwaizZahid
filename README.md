@@ -168,3 +168,14 @@ An intelligent image classification platform combining a **MERN-based frontend**
 🔗 **Links:**  
 [📂 GitHub Repo](https://github.com/ShahwaizZahid/Image-Classification)
 
+### 4️⃣ Real-Time Location Tracker
+
+📍 **Live location tracking** using WebSockets with a Node.js backend and React frontend.  
+
+**🛠 Tech Stack:**  
+- **Backend:** Node.js, WebSockets  
+- **Frontend:** React, Tailwind CSS  
+
+**🔗 Links:**  
+- [GitHub Repo](https://github.com/ShahwaizZahid/Tracker)  
+
