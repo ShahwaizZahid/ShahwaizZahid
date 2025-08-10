@@ -54,6 +54,8 @@ Always open to new ideas, team collaboration, and open-source contributions.
 ![RESTful API](https://img.shields.io/badge/RESTful_API-00599C?style=for-the-badge&logo=api&logoColor=white)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 
+### 🖥 Programming Languages
+
 ### 🗄 Databases
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
