@@ -101,10 +101,12 @@ Always open to new ideas, team collaboration, and open-source contributions.
 
 ## 🚀 Projects to Showcase
 
-### 🎯 CareerCraft – *AI Career Prep Platform*
-> *Your AI-powered career companion — build resumes, write cover letters, and ace interviews.*
+### 🎯 CareerCraft – _AI Career Prep Platform_
+
+> _Your AI-powered career companion — build resumes, write cover letters, and ace interviews._
 
 **✨ Key Features**
+
 - 🧠 AI-generated resumes & cover letters (powered by **Gemini API**)
 - 📊 Automated job matching & processing
 - 💬 Smart interview preparation with tailored Q&A
@@ -122,5 +124,27 @@ Always open to new ideas, team collaboration, and open-source contributions.
 ![Inngest](https://img.shields.io/badge/Inngest-000000?style=for-the-badge)
 
 🔗 **Links:**  
-[📂 GitHub Repo](https://github.com/ShahwaizZahid/CareerCraft) | [🌐 Live Demo](/)
+[📂 GitHub Repo](https://github.com/ShahwaizZahid/CareerCraft) | [🌐 Live Demo](https://career-craft-24bz.vercel.app/)
 
+### 📝 Google Docs Clone – _Real-Time Collaborative Editor_
+
+> _Create, edit, and share documents in real-time — just like Google Docs._
+
+**✨ Key Features**
+
+- 👥 Multi-user **real-time collaboration**
+- 🔒 Secure authentication with **Clerk**
+- 💾 Auto-save for every keystroke
+- 📤 Easy document sharing with permissions
+- ⚡ Real-time data sync via **Liveblocks** & **Convex**
+
+**🛠 Tech Stack:**  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Clerk](https://img.shields.io/badge/Clerk-3B82F6?style=for-the-badge&logo=clerk&logoColor=white)
+![Convex](https://img.shields.io/badge/Convex-000000?style=for-the-badge)
+![Liveblocks](https://img.shields.io/badge/Liveblocks-FF6F61?style=for-the-badge)
+
+🔗 **Links:**  
+[📂 GitHub Repo](https://github.com/ShahwaizZahid/Google-Doc) | [🌐 Live Demo](https://google-doc-rosy.vercel.app/)
