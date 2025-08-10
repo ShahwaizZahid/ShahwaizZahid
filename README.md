@@ -73,7 +73,7 @@ Always open to new ideas, team collaboration, and open-source contributions.
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-### 📚 State Management (React): 
+### 📚 State Management (React):
 
 ![Context API](https://img.shields.io/badge/Context_API-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
@@ -98,3 +98,51 @@ Always open to new ideas, team collaboration, and open-source contributions.
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+
+## 🚀 Projects to Showcase
+
+### 1️⃣ CareerCraft – AI Career Prep Platform
+
+AI-powered platform for creating resumes, cover letters, and preparing for interviews using **Gemini API** and automated job processing.
+**Tech:** Next.js, TypeScript, Tailwind CSS, Prisma, PostgreSQL, Clerk, Gemini API, Inngest  
+🔗 [GitHub Repo](#) | 🌐 [Live Demo](#)
+
+---
+
+### 2️⃣ Google Docs Clone – Real-Time Editor
+
+Multi-user document editor with **live sync**, authentication, auto-save, and document sharing.  
+**Tech:** Next.js, React, Tailwind CSS, Clerk, Convex, Liveblocks  
+🔗 [GitHub Repo](#) | 🌐 [Live Demo](#)
+
+---
+
+### 3️⃣ Image Classification System
+
+MERN-based frontend with **Python ML backend** for image classification using NumPy, OpenCV, and Matplotlib.  
+**Tech:** MERN, Python, NumPy, OpenCV, Matplotlib  
+🔗 [GitHub Repo](#) | 🌐 [Live Demo](#)
+
+---
+
+### 4️⃣ Real-Time Location Tracker
+
+Live location tracking using WebSockets with a Node.js backend and React frontend.  
+**Tech:** Node.js, React, WebSockets, Tailwind CSS  
+🔗 [GitHub Repo](#) | 🌐 [Live Demo](#)
+
+---
+
+### 5️⃣ Flutter Food Delivery App
+
+Real-time order management and tracking using Firebase.  
+**Tech:** Flutter, Dart, Firebase  
+🔗 [GitHub Repo](#) | 🌐 [Live Demo](#)
+
+---
+
+### 6️⃣ Lexa – Voice-Activated Assistant
+
+Python-based virtual assistant that responds to commands, opens apps, and plays media.  
+**Tech:** Python, SpeechRecognition, Pyttsx3  
+🔗 [GitHub Repo](#) | 🌐 [Live Demo](#)
