@@ -126,6 +126,8 @@ Always open to new ideas, team collaboration, and open-source contributions.
 🔗 **Links:**  
 [📂 GitHub Repo](https://github.com/ShahwaizZahid/CareerCraft) | [🌐 Live Demo](https://career-craft-24bz.vercel.app/)
 
+---
+
 ### 📝 Google Docs Clone – _Real-Time Collaborative Editor_
 
 > _Create, edit, and share documents in real-time — just like Google Docs._
@@ -149,6 +151,8 @@ Always open to new ideas, team collaboration, and open-source contributions.
 🔗 **Links:**  
 [📂 GitHub Repo](https://github.com/ShahwaizZahid/Google-Doc) | [🌐 Live Demo](https://google-doc-rosy.vercel.app/)
 
+---
+
 ### 3️⃣ Image Classification System
 
 An intelligent image classification platform combining a **MERN-based frontend** with a **Python ML backend**, capable of processing and classifying images using advanced computer vision techniques.
@@ -168,14 +172,19 @@ An intelligent image classification platform combining a **MERN-based frontend**
 🔗 **Links:**  
 [📂 GitHub Repo](https://github.com/ShahwaizZahid/Image-Classification)
 
+---
+
 ### 4️⃣ Real-Time Location Tracker
 
-📍 **Live location tracking** using WebSockets with a Node.js backend and React frontend.  
+📍 **Live location tracking** using WebSockets with a Node.js backend and React frontend.
 
-**🛠 Tech Stack:**  
-- **Backend:** Node.js, WebSockets  
-- **Frontend:** React, Tailwind CSS  
+**🛠 Tech Stack:**
 
-**🔗 Links:**  
-- [GitHub Repo](https://github.com/ShahwaizZahid/Tracker)  
+- **Backend:** Node.js, WebSockets
+- **Frontend:** React, Tailwind CSS
 
+**🔗 Links:**
+
+- [GitHub Repo](https://github.com/ShahwaizZahid/Tracker)
+
+---
