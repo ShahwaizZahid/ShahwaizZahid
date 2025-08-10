@@ -101,48 +101,26 @@ Always open to new ideas, team collaboration, and open-source contributions.
 
 ## 🚀 Projects to Showcase
 
-### 1️⃣ CareerCraft – AI Career Prep Platform
+### 🎯 CareerCraft – *AI Career Prep Platform*
+> *Your AI-powered career companion — build resumes, write cover letters, and ace interviews.*
 
-AI-powered platform for creating resumes, cover letters, and preparing for interviews using **Gemini API** and automated job processing.
-**Tech:** Next.js, TypeScript, Tailwind CSS, Prisma, PostgreSQL, Clerk, Gemini API, Inngest  
-🔗 [GitHub Repo](#) | 🌐 [Live Demo](#)
+**✨ Key Features**
+- 🧠 AI-generated resumes & cover letters (powered by **Gemini API**)
+- 📊 Automated job matching & processing
+- 💬 Smart interview preparation with tailored Q&A
+- 🔒 Secure authentication with **Clerk**
+- ⚡ Real-time workflows with **Inngest**
 
----
+**🛠 Tech Stack:**  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Clerk](https://img.shields.io/badge/Clerk-3B82F6?style=for-the-badge&logo=clerk&logoColor=white)
+![Gemini API](https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Inngest](https://img.shields.io/badge/Inngest-000000?style=for-the-badge)
 
-### 2️⃣ Google Docs Clone – Real-Time Editor
+🔗 **Links:**  
+[📂 GitHub Repo](https://github.com/ShahwaizZahid/CareerCraft) | [🌐 Live Demo](/)
 
-Multi-user document editor with **live sync**, authentication, auto-save, and document sharing.  
-**Tech:** Next.js, React, Tailwind CSS, Clerk, Convex, Liveblocks  
-🔗 [GitHub Repo](#) | 🌐 [Live Demo](#)
-
----
-
-### 3️⃣ Image Classification System
-
-MERN-based frontend with **Python ML backend** for image classification using NumPy, OpenCV, and Matplotlib.  
-**Tech:** MERN, Python, NumPy, OpenCV, Matplotlib  
-🔗 [GitHub Repo](#) | 🌐 [Live Demo](#)
-
----
-
-### 4️⃣ Real-Time Location Tracker
-
-Live location tracking using WebSockets with a Node.js backend and React frontend.  
-**Tech:** Node.js, React, WebSockets, Tailwind CSS  
-🔗 [GitHub Repo](#) | 🌐 [Live Demo](#)
-
----
-
-### 5️⃣ Flutter Food Delivery App
-
-Real-time order management and tracking using Firebase.  
-**Tech:** Flutter, Dart, Firebase  
-🔗 [GitHub Repo](#) | 🌐 [Live Demo](#)
-
----
-
-### 6️⃣ Lexa – Voice-Activated Assistant
-
-Python-based virtual assistant that responds to commands, opens apps, and plays media.  
-**Tech:** Python, SpeechRecognition, Pyttsx3  
-🔗 [GitHub Repo](#) | 🌐 [Live Demo](#)
