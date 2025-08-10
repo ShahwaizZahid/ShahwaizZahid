@@ -148,3 +148,23 @@ Always open to new ideas, team collaboration, and open-source contributions.
 
 🔗 **Links:**  
 [📂 GitHub Repo](https://github.com/ShahwaizZahid/Google-Doc) | [🌐 Live Demo](https://google-doc-rosy.vercel.app/)
+
+### 3️⃣ Image Classification System
+
+An intelligent image classification platform combining a **MERN-based frontend** with a **Python ML backend**, capable of processing and classifying images using advanced computer vision techniques.
+
+- 🖼 Image upload & preview
+- 🧠 ML model for classification using **NumPy**, **OpenCV**, and **Matplotlib**
+- ⚡ Real-time results with seamless integration between frontend & backend
+- 📊 Visualization of model predictions and processing steps
+
+**🛠 Tech Stack:**  
+![MERN](https://img.shields.io/badge/MERN_Stack-000000?style=for-the-badge&logo=mongodb&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+
+🔗 **Links:**  
+[📂 GitHub Repo](https://github.com/ShahwaizZahid/Image-Classification)
+
