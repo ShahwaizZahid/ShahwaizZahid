@@ -208,3 +208,7 @@ An intelligent image classification platform combining a **MERN-based frontend**
 
 - 🤖 **Innovative AI Integrations**  
   Implemented **Gemini API**, **Convex**, and **Liveblocks** to create next-gen, interactive web applications.
+
+## 📊 GitHub Stats & Activity
+
+
