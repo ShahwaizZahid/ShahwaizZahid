@@ -223,7 +223,10 @@ An intelligent image classification platform combining a **MERN-based frontend**
 <!-- Contribution Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShahwaizZahid&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
 
+### 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/ShahwaizZahid/ShahwaizZahid/output/snake.svg" alt="Snake animation" />
+
 </div>
 
 ###
-
