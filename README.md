@@ -220,7 +220,8 @@ An intelligent image classification platform combining a **MERN-based frontend**
 <!-- Most Used Languages -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahwaizZahid&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
 
-
+<!-- Contribution Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShahwaizZahid&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
 
 </div>
 
