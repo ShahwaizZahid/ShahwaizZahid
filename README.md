@@ -230,3 +230,26 @@ An intelligent image classification platform combining a **MERN-based frontend**
 </div>
 
 ###
+
+## 📫 Contact & Social Links
+
+<div align="center">
+  <a href="mailto:shahwaizmughal942@gmail.com">
+    <img src="images/social_links/email.svg" height="40" alt="Email" />
+  </a>
+  <a href="https://portfolio-neon-three-86.vercel.app/">
+    <img src="images/social_links/portfolio.svg" height="40" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/shahwaiz-zahid/">
+    <img src="images/social_links/linkedin.svg" height="40" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/ShahwaizMugha10?t=VgLjlewjaHMUeFP66alo8w&s=08">
+    <img src="images/social_links/twitter.svg" height="40" alt="Twitter" />
+  </a>
+  <a href="https://www.instagram.com/your-instagram">
+    <img src="images/social_links/instagram.svg" height="40" alt="Instagram" />
+  </a>
+   <a href="https://www.instagram.com/your-instagram">
+    <img src="images/social_links/facebook.svg" height="40" alt="Instagram" />
+  </a>
+</div>
