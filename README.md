@@ -253,3 +253,5 @@ An intelligent image classification platform combining a **MERN-based frontend**
     <img src="images/social_links/facebook.svg" height="40" alt="Instagram" />
   </a>
 </div>
+
+## 🎨 Design Preferences
