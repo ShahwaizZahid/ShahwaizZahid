@@ -255,3 +255,10 @@ An intelligent image classification platform combining a **MERN-based frontend**
 </div>
 
 ## 🎨 Design Preferences
+
+- 🌑 **Theme:** Dark Mode Enthusiast (Tokyo Night / Dracula for that hacker vibe 🖤💜)
+- 😀 **Emojis & Icons:** Absolutely! They add personality and make the profile friendly & engaging
+- ✨ **Style:** Sleek, minimal, yet bold — balanced between professionalism & creativity
+- 📏 **Dividers:** Clean & smooth (--- or ⎯⎯⎯) for a modern flow, no flashy lines
+- 🎬 **Animations:** Subtle SVGs, typing effects, and contribution graph snakes for extra flair
+- 🎨 **Visuals:** Tech logos as SVG (instead of badges) for a premium look
