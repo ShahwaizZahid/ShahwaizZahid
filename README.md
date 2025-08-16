@@ -246,10 +246,10 @@ An intelligent image classification platform combining a **MERN-based frontend**
   <a href="https://x.com/ShahwaizMugha10?t=VgLjlewjaHMUeFP66alo8w&s=08">
     <img src="images/social_links/twitter.svg" height="40" alt="Twitter" />
   </a>
-  <a href="https://www.instagram.com/your-instagram">
+  <a href="https://www.instagram.com/mughal._shahwaiz?igsh=MWt1anFvMG0zZmhmZg==">
     <img src="images/social_links/instagram.svg" height="40" alt="Instagram" />
   </a>
-   <a href="https://www.instagram.com/your-instagram">
+   <a href="https://www.facebook.com/shahwaizmughal.shar?rdid=USywttws7QNF6bWM&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1EcEz8d6iU%2F">
     <img src="images/social_links/facebook.svg" height="40" alt="Instagram" />
   </a>
 </div>
