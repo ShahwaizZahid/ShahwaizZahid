@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=00F700&lines=Hi+I'm+Shahwaiz+Zahid;Full+Stack+Developer;Flutter+%7C+React+Native;AI+%26+Machine+Learning+Enthusiast)](https://git.io/typing-svg)
+
 <table>
   <tr>
     <td width="160" valign="top">
@@ -105,6 +107,8 @@ Always open to new ideas, team collaboration, and open-source contributions.
 
 > _Your AI-powered career companion — build resumes, write cover letters, and ace interviews._
 
+<img src="" alt="CareerCraft Screenshot" width="700"/>
+
 **✨ Key Features**
 
 - 🧠 AI-generated resumes & cover letters (powered by **Gemini API**)
@@ -114,7 +118,7 @@ Always open to new ideas, team collaboration, and open-source contributions.
 - ⚡ Real-time workflows with **Inngest**
 
 **🛠 Tech Stack:**  
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ...
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
