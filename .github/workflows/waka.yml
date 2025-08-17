@@ -2,7 +2,7 @@ name: WakaTime Readme
 
 on:
   schedule:
-    - cron: "0 0 * * *" # runs daily at midnight
+    - cron: "0 0 * * *" # runs daily at midnight UTC
   workflow_dispatch:
 
 jobs:
@@ -11,4 +11,9 @@ jobs:
     steps:
       - uses: athul/waka-readme@master
         with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY}}
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_TITLE: true # Show "📊 Coding Activity"
+          TIME_RANGE: last_7_days # Show stats from the last 7 days
+          SHOW_TIME: true # Show hours and minutes
+          SHOW_TOTAL: true # Show total coding time
+          SHOW_MASKED_TIME: false # Only real tracked time
