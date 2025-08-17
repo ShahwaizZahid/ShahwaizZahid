@@ -1,5 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=00F700&lines=Hi+I'm+Shahwaiz+Zahid;Full+Stack+Developer;Flutter+%7C+React+Native;AI+%26+Machine+Learning+Enthusiast)](https://git.io/typing-svg)
 
+![Profile Views](https://komarev.com/ghpvc/?username=ShahwaizZahid&color=blueviolet&style=flat-square)
+
 <table>
   <tr>
     <td width="160" valign="top">
@@ -234,6 +236,10 @@ An intelligent image classification platform combining a **MERN-based frontend**
 </div>
 
 ###
+
+
+
+
 
 ## 📫 Contact & Social Links
 
