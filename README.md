@@ -252,6 +252,14 @@ An intelligent image classification platform combining a **MERN-based frontend**
 
 ###
 
+
+
+
+## ⏱ Coding Activity
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
 ## 📫 Contact & Social Links
 
 <div align="center">
