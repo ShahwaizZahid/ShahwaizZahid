@@ -215,6 +215,13 @@ An intelligent image classification platform combining a **MERN-based frontend**
 - 🤖 **Innovative AI Integrations**  
   Implemented **Gemini API**, **Convex**, and **Liveblocks** to create next-gen, interactive web applications.
 
+## 🤝 Open Source Contributions
+
+- Contributed bug fixes to [Convex](https://github.com/get-convex)
+- Improved docs for [Liveblocks](https://github.com/liveblocks)
+
+---
+
 ## 📊 GitHub Stats & Activity
 
 <div align="center">
@@ -237,15 +244,13 @@ An intelligent image classification platform combining a **MERN-based frontend**
 
 ###
 
-
 ## 🏆 GitHub Profile Trophies
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ShahwaizZahid&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ###
-
-
 
 ## 📫 Contact & Social Links
 
