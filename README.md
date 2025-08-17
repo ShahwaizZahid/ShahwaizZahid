@@ -238,6 +238,12 @@ An intelligent image classification platform combining a **MERN-based frontend**
 ###
 
 
+## 🏆 GitHub Profile Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ShahwaizZahid&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+###
 
 
 
