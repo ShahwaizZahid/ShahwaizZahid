@@ -22,7 +22,7 @@ I'm a self-motivated and versatile Software Engineer with hands-on experience in
 
 - 🔧 Full Stack (MERN, Laravel) Development
 - 📱 Mobile App Development (Flutter, React Native)
-- 🤖 Machine Learning (Python, OpenCV, NumPy)
+- 🤖 Machine Learning (Python, OpenCV, NumPy, TensorFlow)
 - 🎨 UI/UX Design & Real-Time Systems
 
 Always open to new ideas, team collaboration, and open-source contributions.
@@ -252,10 +252,8 @@ An intelligent image classification platform combining a **MERN-based frontend**
 
 ###
 
-
-
-
 ## ⏱ Coding Activity
+
 <!--START_SECTION:waka-->
 
 ```txt
@@ -263,7 +261,6 @@ No activity tracked
 ```
 
 <!--END_SECTION:waka-->
-
 
 ## 📫 Contact & Social Links
 
