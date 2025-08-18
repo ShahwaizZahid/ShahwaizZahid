@@ -20,7 +20,7 @@
 
 I'm a self-motivated and versatile Software Engineer with hands-on experience in:
 
-- 🔧 Full Stack (MERN, Laravel) Development
+- 🔧 Full Stack (MERN, Laravel) Developmsent
 - 📱 Mobile App Development (Flutter, React Native)
 - 🤖 Machine Learning (Python, OpenCV, NumPy, TensorFlow)
 - 🎨 UI/UX Design & Real-Time Systems
