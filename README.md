@@ -12,7 +12,7 @@
     <td>
       <h1>👋 Hi, I'm Shahwaiz Zahid</h1>
       🎓 Software Engineer — graduated from University of the Punjab<br>
-      💼 Currently working as a <strong>Back-end Developer</strong> at Softix Technology<br>
+      <!-- 💼 Currently working as a <strong>Back-end Developer</strong> at Softix Technology<br> -->
       🧠 Passionate about Full Stack Web Development, Mobile Apps, and AI tools
     </td>
   </tr>
