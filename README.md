@@ -12,7 +12,7 @@
     <td>
       <h1>👋 Hi, I'm Shahwaiz Zahid</h1>
       🎓 Software Engineer — graduated from University of the Punjab<br>
-      💼 Currently working as a <strong>Full Stack Developer</strong> at Sprouto<br>
+      💼 Currently working as a <strong>Full Stack Developer</strong> at Devscape Digital<br>
       🧠 Passionate about Full Stack Web Development (MERN), Mobile Apps (Flutter, React Native ), and AI tools
     </td>
   </tr>
