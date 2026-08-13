@@ -257,15 +257,15 @@ An intelligent image classification platform combining a **MERN-based frontend**
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 August 2026 - To: 11 August 2026
+From: 05 August 2026 - To: 12 August 2026
 
-Total Time: 11 hrs 30 mins
+Total Time: 11 hrs 8 mins
 
-JavaScript   4 hrs 23 mins         ████████▓░░░░░░░░░░░░░░░░   35.24 %
-Bash         2 hrs 52 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.09 %
-Markdown     1 hr 53 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   15.16 %
-TypeScript   1 hr 7 mins           ██▒░░░░░░░░░░░░░░░░░░░░░░   09.02 %
-Other        57 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 %
+JavaScript   4 hrs 38 mins         █████████▓░░░░░░░░░░░░░░░   38.07 %
+Bash         1 hr 54 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.70 %
+Markdown     1 hr 52 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.41 %
+TypeScript   1 hr 29 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.21 %
+Other        1 hr 3 mins           ██▒░░░░░░░░░░░░░░░░░░░░░░   08.71 %
 ```
 
 <!--END_SECTION:waka-->
